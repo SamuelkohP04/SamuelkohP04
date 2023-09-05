@@ -62,4 +62,5 @@
 
 ###
 
-<p align="left"> Profile template by [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator/). </p>
+<p align="left"> Profile template by <a href="https://github.com/maurodesouza/profile-readme-generator/">Profile Readme Generator</a>. </p>
+
