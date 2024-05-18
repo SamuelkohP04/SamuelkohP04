@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Year 2 student currently pursuing a diploma in Data Science from the School of InfoComm Technology at Ngee Ann Polytechnic. Being a thinking person, I can leverage my qualities as an analytical, restorative and strategic thinker. I enjoy solving complex problems with models in deep thoughts, if given enough time. <br><br>Aspiring AI Engineer, learning software engineering as a hobby. In these two fields, I find lots of joy in mathematical aspects to programming. Active in the robotics club for eight years. Passionate in volunteering and leadership.</p>
+<p align="left">A Final Year student currently pursuing a diploma in Data Science from the School of InfoComm Technology at Ngee Ann Polytechnic. Being a thinking person, I can leverage my qualities as an analytical, restorative and strategic thinker. I enjoy solving complex problems with models in deep thoughts, if given enough time. <br><br>Aspiring AI Engineer, learning software engineering as a hobby. In these two fields, I find lots of joy in mathematical aspects to programming. Active in the robotics club for eight years. Passionate in volunteering and leadership.</p>
 
 ###
 
