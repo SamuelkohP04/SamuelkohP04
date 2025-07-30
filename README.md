@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">A Final Year student currently pursuing a diploma in Data Science from the School of InfoComm Technology at Ngee Ann Polytechnic. Being a thinking person, I can leverage my qualities as an analytical, restorative and strategic thinker. I enjoy solving complex problems with models in deep thoughts, if given enough time.<br><br>Aspiring AI Engineer, learning software engineering as a hobby. In these two fields, I find lots of joy in mathematical aspects to programming. Active in the robotics club for eight years. Passionate in volunteering and leadership.</p>
+<p align="left">Aspiring Data Scientist with a strong interest in statistics, machine learning, and algorithmic thinking. From tinkering in robotics at the age of 9 to writing code today, I have developed an intuition for computational logic. Independent explorer in the intersections of data science, software engineering and mathematics through personal research & projects. 
+  
+  Mentored students in computational thinking & mathematics for over 2 years. Deeply motivated to advance AI research through rigorous enquiry & implementation for real-world impact.
+</p>
 
 ###
 
